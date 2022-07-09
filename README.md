@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @suyash19980603
 - 👀 I’m interested in teaching 
-- 🌱 I’m currently learning web devlopment 
+- 🌱 I’m currently learning data analysis 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
